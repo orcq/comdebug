@@ -1,0 +1,9 @@
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\comdebug\comdebug\bin\Debug\comdebug.exe
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\comdebug\comdebug\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\comdebug\comdebug\obj\x86\Debug\comdebug.Form1.resources
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\comdebug\comdebug\obj\x86\Debug\comdebug.Properties.Resources.resources
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\comdebug\comdebug\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\comdebug\comdebug\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\comdebug\comdebug\obj\x86\Debug\comdebug.exe
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\comdebug\comdebug\obj\x86\Debug\comdebug.pdb
+C:\Users\Administrator.SKY-20180508AFJ\Desktop\comdebug\comdebug\bin\Debug\comdebug.pdb
